@@ -4,7 +4,7 @@ D6 Fitness Tracker Custom Firmware for Arduino
 
 With custom Heartrate Detection. 
 
-The new Example ( D6EmulatorHeartrate ) can only be used with the Arduino library that includes an Precompiled Library. you can find more infos here: 
+The new Example ( D6EmulatorHeartrate ) can only be used with the Arduino library that includes an Precompiled Library. you can find more infos here: https://youtu.be/E0W65KbaeA8
 
 Use this Arduino library to use it: https://github.com/atc1441/D6-arduino-nRF5
 
